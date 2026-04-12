@@ -1,6 +1,6 @@
 Python simulations to visualise why the casino always wins, using probability theory and statistics.
 
-Made alongside the YouTube video: [The Casino Isn't About Luck)]()
+Made alongside the YouTube video: [The Casino Isn't About Luck]()
 
 ## Requirements
 
